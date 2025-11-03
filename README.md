@@ -7,5 +7,5 @@ It provides SDKs for tracing ([@accordkit/tracer](https://npmjs.com/package/@acc
 
 Tech: TypeScript • React • Vite • Cloudflare • OpenTelemetry-inspired architecture.
 
-🧩 Docs → [accordkit.dev](https://accordkit.dev)
-💻 GitHub → [github.com/accordkit](https://github.com/accordkit)
+- 🧩 Docs → [accordkit.dev](https://accordkit.dev)
+- 💻 GitHub → [github.com/accordkit](https://github.com/accordkit)
