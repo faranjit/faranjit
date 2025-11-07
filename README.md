@@ -3,7 +3,7 @@ I build tools that make AI systems observable and reliable.
 
 #### 🚀 AccordKit
 **[AccordKit](https://accordkit.dev)** is an open-source observability toolkit for AI apps.  
-It provides SDKs for tracing ([@accordkit/tracer](https://npmjs.com/package/@accordkit/tracer)), provider adapters, and a real-time viewer.
+It provides SDKs for a real-time [@accordkit/viewer](https://github.com/accordkit/viewer), tracing ([@accordkit/tracer](https://github.com/accordkit/tracer)), provider adapters, and etc.
 
 Tech: TypeScript • React • Vite • Cloudflare • OpenTelemetry-inspired architecture.
 
